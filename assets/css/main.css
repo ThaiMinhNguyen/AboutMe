@@ -309,6 +309,10 @@ a.content-btn {
     opacity: 0.5;
 }
 
+#socialplace {
+    margin-top: 40px;
+}
+
 .game-place {
     margin: 20px 12px 12px 12px;
     padding: 32px 8px;
@@ -423,3 +427,8 @@ a.content-btn {
     opacity: 0.5;
 }
 
+.MeBio {
+    display: block;
+    position: relative;
+    height: 500px;
+}
